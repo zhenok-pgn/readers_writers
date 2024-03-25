@@ -1,0 +1,10 @@
+D:\study programming\visual\lab2_os\lab2_os\bin\Debug\lab2_os.exe.config
+D:\study programming\visual\lab2_os\lab2_os\bin\Debug\lab2_os.exe
+D:\study programming\visual\lab2_os\lab2_os\bin\Debug\lab2_os.pdb
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.csproj.AssemblyReference.cache
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.Form1.resources
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.Properties.Resources.resources
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.csproj.GenerateResource.cache
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.csproj.CoreCompileInputs.cache
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.exe
+D:\study programming\visual\lab2_os\lab2_os\obj\Debug\lab2_os.pdb
